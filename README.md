@@ -1,4 +1,4 @@
-## Hello, my name is Marco, and I'm a frontend programmer.👨🏻‍💻
+## Hello, my name is Marco, and I'm a frontend programmer.
 
 I am a professional in the area of web programming, especially in frontend and with knowledge in backend, I have several years of experience in different activities.
 
@@ -11,6 +11,7 @@ I am looking to implement all my potential and knowledge in the development with
 ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
