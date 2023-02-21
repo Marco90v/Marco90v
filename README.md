@@ -28,3 +28,6 @@ I am looking to implement all my potential and knowledge in the development with
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco90v&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco90v&show_icons=true&theme=dark)
+
+![Codewars](https://www.codewars.com/users/mvf90/badges/large)
+
