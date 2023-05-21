@@ -6,7 +6,7 @@ I am determined to keep growing and improving, professionally and personally.
 
 I am looking to implement all my potential and knowledge in the development with React, as well as in the different technologies that I have learned and continue to learn.
 
-[Portfolio](https://marco90v.github.io/Portafolio/)
+[Portfolio](https://marcovelasquezfigarella.netlify.app/)
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)
